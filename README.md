@@ -23,10 +23,10 @@ O Site  __*Siver for Monsters*__ Desenvolvido para o meu primeiro projeto de fac
 Site de um Mercado da minha cidade, com layout responsivo e sistema de pedidos.  
 **Tecnologias**: PHP, HTML, CSS e JavaScript.
 
-🏥 **[Gerenciador Clínica Em JAVA](https://github.com/FernandoConsolinRosa11/GerenciadorClinica)**  
+🏥 **[Ecommerce Tech](https://github.com/AitomD/eco)**  
 
-Atividade prática feita utilizando a linguagem **Java**. Através do terminal é possível gerênciar um clínica selecionando as ações que deseja por meio de uma interface simples e intuitiva.  
-**Tecnologias**: Java.  
+Projeto da faculdade realizado em grupo. Um ecommerce focado na venda de notebooks, computadores desktops e celulares.
+**Tecnologias**: PHP, HTML, CSS, JavaScript, Bootstrap, Chart.js e Jquery .  
 
 ---
 # 📬 Contato  
