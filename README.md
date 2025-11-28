@@ -26,7 +26,7 @@ Site de um Mercado da minha cidade, com layout responsivo e sistema de pedidos.
 🏥 **[Ecommerce Tech](https://github.com/AitomD/eco)**  
 
 Projeto da faculdade realizado em grupo. Um ecommerce focado na venda de notebooks, computadores desktops e celulares.
-**Tecnologias**: PHP, HTML, CSS, JavaScript, Bootstrap, Chart.js e Jquery .  
+**Tecnologias**: PHP, HTML, CSS, JavaScript, Bootstrap, Chart.js , Jquery  e MySQL.  
 
 ---
 # 📬 Contato  
