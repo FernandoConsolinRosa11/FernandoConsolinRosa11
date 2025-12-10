@@ -6,8 +6,8 @@
 
 ---
 # 🔧 Tecnologias & Ferramentas
- -**Front-End**: HTML e CSS  
- -**Back-End**(Básico): PHP, Java, JavaScript  
+ -**Front-End**(Básico): HTML,CSS e BOOTSTRAP    
+ -**Back-End**(Básico): PHP, Java, JavaScript e Python  
  -**Banco de Dados**: MySQL  
  -**Versionamento**: Git e Github  
 
