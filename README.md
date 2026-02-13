@@ -1,4 +1,4 @@
-#  Olá, sou Fernando Consolin Rosa
+# 👋 Olá, sou Fernando Consolin Rosa
 
 ### 🎓 Formação Acadêmica
 * **Faculdade:** Integrado Campo Mourão
@@ -29,6 +29,11 @@
 #### 🔗 [REPOSITÓRIO](https://github.com/AitomD/eco)
 **🛒 E-commerce HAFTECH**
 > Plataforma de e-commerce voltada para a venda de computadores e celulares, com foco em organização, controle administrativo e experiência do usuário.
+
+---
+### :trollface: Outros
+#### 🔗 [REPOSITÓRIO](https://github.com/FernandoConsolinRosa11/TypeScript-Exercises)
+> Praticando TypeScript.
 
 ---
 
