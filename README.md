@@ -1,33 +1,43 @@
-# 👋 Oi, eu sou o Fernando 
+#  Olá, sou Fernando Consolin Rosa
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-🎯 Desenvolvedor em Produção || Cybersecurity em Produção  
-🚀 Sempre aprendendo novas tecnologias e criando projetos próprios  
-
----
-# 🔧 Tecnologias & Ferramentas
- -**Front-End**(Básico): HTML,CSS e BOOTSTRAP    
- -**Back-End**(Básico): PHP, Java, JavaScript e Python  
- -**Banco de Dados**: MySQL  
- -**Versionamento**: Git e Github  
+### 🎓 Formação Acadêmica
+* **Faculdade:** Integrado Campo Mourão
+* **Curso:** Análise e Desenvolvimento de Sistemas (ADS)
 
 ---
-# ⭐ Destaques
-🐺 **[Silver For Monsters](https://github.com/FernandoConsolinRosa11/site-main)**  
 
-O Site  __*Siver for Monsters*__ Desenvolvido para o meu primeiro projeto de faculdade, nele contém o jogo de mesmo nome na qual é possível joga-lo pelo próprio site.  
-**Tecnologias**: HTML, CSS e JavaScript.
-
-🏬 **[Site Mercado](https://github.com/FernandoConsolinRosa11/SiteMercadoBelaVista)**  
-
-Site de um Mercado da minha cidade, com layout responsivo e sistema de pedidos.  
-**Tecnologias**: PHP, HTML, CSS e JavaScript.
-
-🏥 **[Ecommerce Tech](https://github.com/AitomD/eco)**  
-
-Projeto da faculdade realizado em grupo. Um ecommerce focado na venda de notebooks, computadores desktops e celulares.
-**Tecnologias**: PHP, HTML, CSS, JavaScript, Bootstrap, Chart.js , Jquery  e MySQL.  
+### 🛠️ Minhas Tecnologias são
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</div>
 
 ---
-# 📬 Contato  
- -**📧 [EMAIL](consolinrosafernando@gmail.com)**  
+
+### 📌 Meus Projetos
+
+#### 🔗 [REPOSITÓRIO](https://github.com/AitomD/BlueStar)
+**🌟 BlueStar**
+> Projeto acadêmico sobre filmes e séries desenvolvido como trabalho de faculdade, focado na criação de um site completo com API integrada, banco de dados e sistema de login e cadastro de usuários.
+  
+#### 🔗 [REPOSITÓRIO](https://github.com/AitomD/eco)
+**🛒 E-commerce HAFTECH**
+> Plataforma de e-commerce voltada para a venda de computadores e celulares, com foco em organização, controle administrativo e experiência do usuário.
+
+---
+
+### 📬 Contato
+
+
+<a href="mailto:consolinrosafernando@gmail.com">
+  <img src="https://img.shields.io/badge/E--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+</a>
+<a href="https://www.instagram.com/ferconsolin_rosa/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
